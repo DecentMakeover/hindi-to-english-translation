@@ -1,9 +1,10 @@
-# hindi-to-english-translation
+# Hindi To English Translation
 
-please run these commands before getting started 
-`pip install transformers`
-`pip install huggingface_hub`
-`huggingface-cli login`
+## Getting Started
 
+Before you begin, make sure to run these commands to set up the project:
 
-once you run these commands you can run `eng_hin_conversion.py` to get the results .
+```bash
+pip install transformers
+pip install huggingface_hub
+huggingface-cli login
