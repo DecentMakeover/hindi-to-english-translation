@@ -1,4 +1,4 @@
-# Hindi To English Translation with Transformers
+# Hindi To English Translation
 
 This repository contains Python code that utilizes the Hugging Face Transformers library to perform Hindi to English translation using a pre-trained model.
 
